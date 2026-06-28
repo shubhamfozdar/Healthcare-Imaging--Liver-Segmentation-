@@ -4,4 +4,4 @@
 
 Results: As the Above image shows that this liver has a tumor which is labeled on the right side in yellow marks, thus this work is done using this model using Monai and Pytorch
 
-Technologies used: Monai , Pytorch , CUDA , CUNN 
+Technologies used: Monai , Pytorch , CUDA , CUNN.
